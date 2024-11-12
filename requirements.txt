@@ -1,0 +1,13 @@
+# List of dependencies
+
+# Database
+# mysql-connector-python
+# pyodbc
+# psycopg2
+
+pymongo
+
+pytz
+pydantic
+fastapi
+uvicorn
